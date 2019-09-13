@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'Treatify.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'clinic',
+        'NAME': 'abcd',
         'USER' : 'root',
         'PASSWORD' : 'root',
         
